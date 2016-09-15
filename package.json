@@ -1,0 +1,25 @@
+{
+  "name": "bind-component-handlers",
+  "version": "1.0.4",
+  "description": "automatically bind change handlers to react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwan91/bind-component-handlers.git"
+  },
+  "keywords": [
+    "bind",
+    "component",
+    "handlers",
+    "react"
+  ],
+  "author": "Marwan Sulaiman <marwan.sameer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwan91/bind-component-handlers/issues"
+  },
+  "homepage": "https://github.com/marwan91/bind-component-handlers#readme"
+}
