@@ -1,6 +1,6 @@
 {
   "name": "bind-component-handlers",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "automatically bind change handlers to react components",
   "main": "index.js",
   "scripts": {
